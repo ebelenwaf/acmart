@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sample-sigconf.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: anomaly_detection.bib
+Warning--I didn't find a database entry for ""
+Warning--no key, author in acsac
+Warning--no key, author in acsac
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--can't use both author and editor fields in Bertino2015
+Warning--require articleno with numpages field in Hofmeyr
+Warning--require articleno with numpages field in Muniswamy-Reddy
+Warning--require articleno with numpages field in Noble
+Warning--empty address in pasquier-socc2017
+Warning--page numbers missing in both pages and numpages fields in pasquier-socc2017
+Warning--require articleno with numpages field in Ramaswamy
+Warning--require articleno with numpages field in Yoon
+You've used 16 entries,
+            5551 wiz_defined-function locations,
+            1444 strings with 19893 characters,
+and the built_in function-call counts, 20904 in all, are:
+= -- 2751
+> -- 658
+< -- 0
++ -- 198
+- -- 500
+* -- 1626
+:= -- 2133
+add.period$ -- 80
+call.type$ -- 16
+change.case$ -- 110
+chr.to.int$ -- 16
+cite$ -- 28
+duplicate$ -- 1413
+empty$ -- 1013
+format.name$ -- 270
+if$ -- 4685
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 63
+newline$ -- 204
+num.names$ -- 127
+pop$ -- 492
+preamble$ -- 1
+purify$ -- 190
+quote$ -- 0
+skip$ -- 407
+stack$ -- 0
+substring$ -- 2476
+swap$ -- 162
+text.length$ -- 569
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 209
+warning$ -- 10
+while$ -- 130
+width$ -- 0
+write$ -- 366
+(There were 11 warnings)
